@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, welcome to my github profile. Here I will share updates through repos regularly.
 
 <!--
 **DebasmitaBose0/DebasmitaBose0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
