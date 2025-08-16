@@ -58,14 +58,11 @@
 
 ---
 
-### 🚀 My First Repository: *Symphony of Survival Code* 🎶🌳  
+## 🚀 My First Repository: *Symphony of Survival Code* 🎶🌳  
 
 <p align="center">
-  <a href="https://github.com/DebasmitaBose0/-12Symphonyofsurvivalcodes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebasmitaBose0&repo=-12Symphonyofsurvivalcodes&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebasmitaBose0&repo=SymphonyofSurvival&theme=radical&hide_border=true&description=A+collection+of+survival-inspired+algorithms+and+codes,+orchestrated+like+a+digital+symphony." />
 </p>
-
 
 
 🌳 **Project Overview**  
