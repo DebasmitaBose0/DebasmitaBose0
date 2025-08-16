@@ -58,7 +58,7 @@
 
 ---
 
-### 🚀 Featured Project  
+### 🚀 First Repository  
 
 <p align="center">
   <a href="https://github.com/DebasmitaBose0/Doctor-Management-System">
