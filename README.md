@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/DebasmitaBose0/Doctor-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebasmitaBose0&repo=-12Symphonyofsurvivalcodesnewlycrated2024&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebasmitaBose0&repo=-12Symphonyofsurvivalcodes&theme=radical&hide_border=true" />
   </a>
 </p>
 
