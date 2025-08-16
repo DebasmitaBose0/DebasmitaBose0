@@ -58,13 +58,36 @@
 
 ---
 
-### 🚀 First Repository  
+### 🚀 My First Repository: *Symphony of Survival Code* 🎶🌳  
 
 <p align="center">
-  <a href="https://github.com/DebasmitaBose0/Doctor-Management-System">
+  <a href="https://github.com/DebasmitaBose0/-12Symphonyofsurvivalcodes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebasmitaBose0&repo=-12Symphonyofsurvivalcodes&theme=radical&hide_border=true" />
   </a>
 </p>
+
+
+
+🌳 **Project Overview**  
+My first GitHub repository is a **Google Earth Engine (GEE) script** that analyzes **forest cover, loss, and gain** in the **Republic of the Congo** using the **Hansen Global Forest Change (2015)** dataset.  
+
+✨ **What this project does:**  
+- 📥 **Imports Data:** Hansen Global Forest dataset (`UMD/hansen/global_forest_change_2015`).  
+- 🗺️ **Visualizes Maps:**  
+  - 🌲 Forest cover in **green**  
+  - 🔴 Forest loss in **red**  
+  - 🔵 Forest gain in **blue**  
+  - 🟣 Areas with both loss & gain in **magenta**  
+- 📍 **Focus Area:** Republic of the Congo + **Protected Areas (WDPA)**.  
+- 📊 **Calculations:**  
+  - Total **forest loss in 2012** across Congo.  
+  - Forest loss **within protected areas**.  
+- 🖥️ **Outputs:** Displays results in the **GEE Console**.  
+
+📌 **Why it matters?**  
+This project highlights how **satellite data + coding** can help monitor **deforestation** and support **environmental conservation**. 🌍💻  
+
+---
 
 ---
 
