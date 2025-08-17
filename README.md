@@ -28,20 +28,57 @@
 
 ### 🛠️ Languages & Tools  
 
+<!-- Programming Languages -->
+<h4 align="center">💻 Programming Languages</h4>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="55" style="margin:12px;"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" style="margin:12px;"/>
+  <img src="https://skillicons.dev/icons?i=java" height="55" style="margin:12px;"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55" style="margin:12px;"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" style="margin:12px;"/>
+</p>
+
+<!-- Tools & Platforms -->
+<h4 align="center">🔧 Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="55" style="margin:12px;"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55" style="margin:12px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" style="margin:12px;"/>
+</p>
+
+#### 🌟 Other Skills  
+
+<div align="center">
+
 <table>
 <tr>
-<th>Programming Languages</th>
-<th>Tools & Platforms</th>
-<th>Other Skills</th>
+<td align="center" width="200">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="70"/><br>
+  <b>Object Oriented Programming</b>
+</td>
+<td align="center" width="200">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70"/><br>
+  <b>Problem Solving</b>
+</td>
 </tr>
 <tr>
-<td>🔵 C<br>💠 C++<br>☕ Java<br>🐍 Python</td>
-<td>🔧 Git<br>🐙 GitHub<br>🖥️ VS Code</td>
-<td>🧠 OOP<br>🧩 Problem Solving</td>
+<td align="center" width="200">
+  <img src="https://media.lordicon.com/icons/wired/gradient/957-team-work.gif" width="70"/><br>
+  <b>Team Collaboration</b>
+</td>
+
+<td align="center" width="200">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70"/><br>
+  <b>Adaptability</b>
+</td>
+
 </tr>
 </table>
-</p>
+
+</div>
+
+
+
 
 ---
 
