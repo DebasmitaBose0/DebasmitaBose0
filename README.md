@@ -77,11 +77,12 @@
 
 ### 📈 GitHub Stats & Activity  
 
-## 🔥 My GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DebasmitaBose&theme=tokyonight&hide_border=true" alt="Debasmita Bose's GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="Debasmita Bose's GitHub Streak" />
 </p>
+
 
 
 ---
