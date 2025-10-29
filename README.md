@@ -77,14 +77,12 @@
 
 ### 📈 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&theme=github_dark&hide_border=false&border_color=FFFFFF&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-</p>
+## 🔥 My GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebasmitaBose0&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DebasmitaBose&theme=tokyonight&hide_border=true" alt="Debasmita Bose's GitHub Streak" />
 </p>
+
 
 ---
 
