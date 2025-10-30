@@ -87,8 +87,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+### 🥇GitHub Trophies 🏆🏆 
+![](https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=dracula&margin-w=4&cache_seconds=1800)
+
 
 ---
 
