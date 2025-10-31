@@ -23,17 +23,25 @@
 
 ---
 
-### ℹ About Me  
+## 🪩 About Me  
 
-- 🎓 Pursuing *B.Tech in Computer Science & Engineering* at Adamas University  
-- 💡 Strong interest in *AI, Data Science, and Web Development*  
-- 📌 Always exploring *real-world problem solving through coding*  
-- 🤝 Believer in *radical collaboration, adaptability, and growth mindset*  
-- 🚀 Open to *internships, projects, and research opportunities*  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%7C+Data+Science+%7C+Web+Development;Real-World+Problem+Solver;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠 Tech Stack  
+## 💫 Quick Snapshot  
+
+- 🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University**  
+- 💡 Strong interest in **AI, Data Science, and Web Development**  
+- 🔧 Always exploring *real-world problem solving through coding*  
+- 🤝 Believer in *collaboration, adaptability,* and a **growth mindset**  
+- 🚀 Open to **internships, projects, and research opportunities**
+
+---
+
+## 🛠 Tech Stack  
 
 <p align="center">
   <table>
@@ -75,9 +83,9 @@
 
 ---
 
-### 📈 GitHub Stats & Activity  
+## 📈 GitHub Stats & Activity  
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="Debasmita Bose's GitHub Streak" />
@@ -87,29 +95,37 @@
 
 ---
 
-### 🥇GitHub Trophies 🏆🏆 
+## 🥇GitHub Trophies 🏆🏆 
 ![](https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=dracula&margin-w=4&cache_seconds=1800)
 
 
 ---
 
-### 🐍 Contribution Snake Graph (Only for Illustration purpose)
+## 🐍 Contribution Snake Graph (Only for Illustration purpose)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
 ---
 
-### 🤝 Connect With Me  
+## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:dbose272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/debasmita-bose-0002b329a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:debasmitabose06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/DebasmitaBose0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/debasmita-bose/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <em>If you like my profile, don’t forget to ⭐ my repos and follow for collaboration!</em> ⭐
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;🌈+Don't+forget+to+star+my+repos+and+follow!;🚀+Let's+collaborate+and+build+something+amazing!" alt="Typing Animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=DebasmitaBose0&data=followers,repositories,stars,commits&theme=darkmode&animation=true" alt="Profile Stats Widget"/>
+</p>
