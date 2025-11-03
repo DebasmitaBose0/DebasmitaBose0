@@ -85,21 +85,34 @@
 
 ## 📈 GitHub Stats & Activity  
 
-### 🔥 GitHub Streak
-
+### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="Debasmita Bose's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
+---
 
+### 📊 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🥇GitHub Trophies 🏆🏆 
-![](https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=dracula&margin-w=4&cache_seconds=1800)
-
+## 🥇 GitHub Trophies 🏆  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
+
+## 🧠 My GitHub Overview  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
 
 ## 🐍 Contribution Snake Graph (Only for Illustration purpose)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
@@ -128,11 +141,6 @@
 
 ---
 
-## 🧠 My GitHub Overview  
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=DebasmitaBose0&data=followers,repositories,stars,commits&theme=darkmode&animation=true" alt="GitHub WidgetBox" />
-</p>
 
 
 
