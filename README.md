@@ -106,14 +106,6 @@
 
 ---
 
-## 🧠 My GitHub Overview  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-
 ## 🐍 Contribution Snake Graph (Only for Illustration purpose)
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
@@ -141,7 +133,30 @@
 
 ---
 
+## 🧠 My GitHub Overview  
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<div align="center">
+
+### ⚡ Overall Performance  
+
+| 🧮 Overall Stats | 🧩 Top Languages |
+|:--:|:--:|
+| <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=donut&theme=tokyonight&hide_border=true&card_width=350" height="180"/> |
+
+---
+
+### 🌈 Contribution Journey  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&area_color=0057ff&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
+
+</div>
+
+
+---
 
 
 
