@@ -145,7 +145,7 @@
 
 | 🧮 Overall Stats | 🧩 Top Languages |
 |:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=donut&theme=tokyonight&hide_border=true&card_width=350" height="180"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" width="320"/> |
 
 ---
 
