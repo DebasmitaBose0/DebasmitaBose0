@@ -85,10 +85,23 @@
 
 ## 📈 GitHub Stats & Activity  
 
+<div align="center">
+
 ### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+
+<table align="center" style="border:none; background: linear-gradient(135deg, #0d1117, #1a1f29); border-radius: 15px; padding: 10px;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=tokyonight&hide_border=true" width="450" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
 
 ---
 
