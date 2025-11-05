@@ -1,4 +1,4 @@
-### <h1 align="center">✨ Hi <img src="https://i.ibb.co/zH54XZbH/five-unscreen.gif" width="30">, I'm Debasmita Bose ✨</h1>
+## <h1 align="center">✨ Hi <img src="https://i.ibb.co/zH54XZbH/five-unscreen.gif" width="30">, I'm Debasmita Bose ✨</h1>
 
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif" width="700" alt="Cool GIF" />
@@ -99,10 +99,6 @@
 
 </div>
 
-
-
-
-
 ---
 
 ### 📊 Top Languages  
@@ -154,7 +150,9 @@
 
 <div align="center">
 
-### ⚡ Overall Performance  
+---
+
+## ⚡ Overall Performance  
 
 | 🧮 Overall Stats | 🧩 Top Languages |
 |:--:|:--:|
@@ -162,7 +160,7 @@
 
 ---
 
-### 🌈 Contribution Journey  
+## 🌈 Contribution Journey  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&area_color=0057ff&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
 
@@ -171,5 +169,11 @@
 
 ---
 
-
+## 🌸 Thanks for Visiting!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
+</p>
+<p align="center">
+  <i>“Come back soon. More magic loading...” ✨</i>
+</p>
 
