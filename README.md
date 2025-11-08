@@ -92,8 +92,7 @@
 <table align="center" style="border:none; background: linear-gradient(135deg, #0d1117, #1a1f29); border-radius: 15px; padding: 10px;">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=tokyonight&hide_border=true" width="450" alt="GitHub Streak"/>
-    </td>
+<img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true" width="450" alt="GitHub Streak"/>
   </tr>
 </table>
 
