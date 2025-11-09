@@ -34,8 +34,8 @@
 ## 💫 Quick Snapshot  
 
 - 🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University**  
-- 💡 Strong interest in **AI, Data Science, and Web Development**  
-- 🔧 Always exploring *real-world problem solving through coding*  
+- 💡 Passionate about **AI, Data Science, and Web Development**  
+- 🔧 Solving *real-world problems through code and logic*  
 - 🤝 Believer in *collaboration, adaptability,* and a **growth mindset**  
 - 🚀 Open to **internships, projects, and research opportunities**
 
@@ -60,20 +60,12 @@
       <td align="center">
         <table>
           <tr>
-            <td align="center">
-              🏷 OOP Concepts
-            </td>
-            <td align="center">
-              🧩 Problem Solving
-            </td>
+            <td align="center">🏷 OOP Concepts</td>
+            <td align="center">🧩 Problem Solving</td>
           </tr>
           <tr>
-            <td align="center">
-              🤝 Teamwork
-            </td>
-            <td align="center">
-              🔄 Adaptability
-            </td>
+            <td align="center">🤝 Teamwork</td>
+            <td align="center">🔄 Adaptability</td>
           </tr>
         </table>
       </td>
@@ -88,49 +80,31 @@
 <div align="center">
 
 ### 🔥 Streak Stats  
-
-<table align="center" style="border:none; background: linear-gradient(135deg, #0d1117, #1a1f29); border-radius: 15px; padding: 10px;">
-  <tr>
-    <td align="center" style="padding: 10px;">
 <img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true" width="450" alt="GitHub Streak"/>
-  </tr>
-</table>
-
-</div>
 
 ---
 
 ### 📊 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 ---
 
-## 🥇 GitHub Trophies 🏆  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+### 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 
 ---
 
-## 🐍 Contribution Snake Graph (Only for Illustration purpose)
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+### 🐍 Contribution Snake Graph  
+<img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ---
 
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:debasmitabose06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/DebasmitaBose0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/debasmita-bose/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="mailto:debasmitabose06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/debasmita-bose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -143,11 +117,7 @@
 
 ## 🧠 My GitHub Overview  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
 
 ---
 
@@ -155,16 +125,13 @@
 
 | 🧮 Overall Stats | 🧩 Top Languages |
 |:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" width="320"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" width="320"/> |
 
 ---
 
 ## 🌈 Contribution Journey  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&area_color=0057ff&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
-
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
 
 ---
 
@@ -172,9 +139,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
 </p>
-<p align="center">
-  <i>“Come back soon. More magic loading...” ✨</i>
-</p>
-
-
-
+<p align="center"><i>“Come back soon. More magic loading...” ✨</i></p>
