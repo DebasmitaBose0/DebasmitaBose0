@@ -80,7 +80,7 @@
 <div align="center">
 
 ### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDD00&ring=DD2727&fire=FF4500&stroke=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&exclude_days=Sun&cache_seconds=60"/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DebasmitaBose0&theme=tokyonight&hide_border=true)](https://github.com/DebasmitaBose0)
 
 ---
 
@@ -140,3 +140,10 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
 </p>
 <p align="center"><i>“Come back soon. More magic loading...” ✨</i></p>
+
+
+
+
+
+
+
