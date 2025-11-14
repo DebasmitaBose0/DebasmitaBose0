@@ -1,4 +1,4 @@
-## <h1 align="center">✨ Hi <img src="https://i.ibb.co/zH54XZbH/five-unscreen.gif" width="30">, I'm Debasmita Bose ✨</h1>
+## <h1 align="center">✨ Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40">, I'm Debasmita Bose ✨</h1>
 
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif" width="700" alt="Cool GIF" />
@@ -140,6 +140,8 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
 </p>
 <p align="center"><i>“Come back soon. More magic loading...” ✨</i></p>
+
+
 
 
 
