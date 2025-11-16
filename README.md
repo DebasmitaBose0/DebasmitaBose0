@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Computer+Science+Engineer+%F0%9F%92%BB;%F0%9F%8C%90+Learning+Web+Development+%F0%9F%8C%90;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;%F0%9F%93%8A+Data+Science+%7C+Problem+Solving+%F0%9F%93%8A;%E2%9A%A1+Tech+Enthusiast+%E2%9A%A1;%F0%9F%8C%8D+Open+to+Projects+%26+Collaboration+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Computer+Science+Engineer+%F0%9F%92%BB;%F0%9F%8C%90+Learning+Web+Development+%F0%9F%8C%90;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;%E2%9A%A1+Tech+Enthusiast+%E2%9A%A1;%F0%9F%8C%8D+Open+to+Projects+%26+Collaboration+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 
@@ -26,7 +26,7 @@
 ## 🪩 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%7C+Data+Science+%7C+Web+Development;Real-World+Problem+Solver;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%7C+Web+Development;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
 ---
