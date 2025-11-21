@@ -79,12 +79,12 @@
 
 <div align="center">
 
-### 🔥 Streak Stats  
+## 🔥 Streak Stats  
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DebasmitaBose0&theme=tokyonight&hide_border=true)](https://github.com/DebasmitaBose0)
 
 ---
 
-### 📊 Top Languages  
+## 📊 Top Languages  
 
 <p align="center">
   <img 
@@ -93,13 +93,13 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+ 
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=10" />
 
 ---
 
-### 🐍 Contribution Snake Graph  
+## 🐍 Contribution Snake Graph  
 <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ---
@@ -150,10 +150,12 @@
 
 
 
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 
 
