@@ -125,6 +125,11 @@
 
 ---
 
+## 🌟 Top Contributed Repositories
+<a href="https://github.com/DebasmitaBose0"> <img src="https://github-contributor-stats.vercel.app/api?username=DebasmitaBose0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/> </a>
+
+---
+
 ## ⚡ Overall Performance  
 
 | 🧮 Overall Stats | 🧩 Top Languages |
@@ -144,7 +149,6 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
 </p>
 <p align="center"><i>“Come back soon. More magic loading...” ✨</i></p>
-
 
 
 
