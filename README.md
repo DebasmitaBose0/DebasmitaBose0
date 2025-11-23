@@ -126,8 +126,7 @@
 ---
 
 ## 🌟 Top Contributed Repositories
-<a href="https://github.com/DebasmitaBose0"> <img src="https://github-contributor-stats.vercel.app/api?username=DebasmitaBose0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/> </a>
-
+<a href="https://github.com/DebasmitaBose0"> <img src="https://github-contributor-stats.vercel.app/api?username=DebasmitaBose0&limit=999&theme=tokyonight&combine_all_yearly_contributions=true&layout=compact" alt="Top Contributed Repositories" /> </a>
 ---
 
 ## ⚡ Overall Performance  
