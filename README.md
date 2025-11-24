@@ -78,8 +78,8 @@
 
 <div align="center">
 
-## 🔥 Streak Stats  
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DebasmitaBose0&theme=tokyonight&hide_border=true)](https://github.com/DebasmitaBose0)
+## 🔥 Streak Stats 
+<img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
@@ -151,7 +151,8 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&timestamp=1
+
+
 
 
 
