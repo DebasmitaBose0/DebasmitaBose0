@@ -78,8 +78,12 @@
 
 <div align="center">
 
-## 🔥 Streak Stats 
-<img src="https://streak-stats.demolab.com?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
