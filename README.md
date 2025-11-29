@@ -22,13 +22,11 @@
 
 ---
 
-## 🪩 About Me  
+# <p align="center"> 🪩 About Me  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%7C+Web+Development;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
-
----
 
 ## 💫 Quick Snapshot  
 
@@ -40,7 +38,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+# <p align="center">  🛠 Tech Stack  
 
 <p align="center">
   <table>
@@ -74,7 +72,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity  
+# <p align="center">  📈 GitHub Stats & Activity  
 
 <div align="center">
 
@@ -84,9 +82,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
-
 ## 📊 Top Languages  
 
 <p align="center">
@@ -95,21 +90,25 @@
   />
 </p>
 
----
- 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
-
----
 
 ## 🐍 Contribution Snake Graph  
 <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ---
 
-## 🤝 Connect With Me  
+# 🧠 My GitHub Overview  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
+
+---
+
+# 🤝 Connect With Me  
 
 <p align="center">
   <a href="mailto:debasmitabose06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -120,57 +119,10 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=850&lines=⭐+Thanks+for+visiting+my+profile!;🌈+Don't+forget+to+star+my+repos+and+follow!;🚀+Let's+collaborate+and+build+something+amazing!" alt="Typing Animation" />
 </p>
 
 ---
-
-## 🧠 My GitHub Overview  
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
-
----
-
-## 🌟 Top Contributed Repositories
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=DebasmitaBose0&limit=10&theme=tokyonight&combine_all_yearly_contributions=true&layout=compact" 
-    alt="Top Contributed Repositories" 
-    width="70%" 
-  />
-</p>
-
-
----
-
-
-## ⚡ Overall Performance  
-
-| 🧮 Overall Stats | 🧩 Top Languages |
-|:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" width="320"/> |
-
----
-
-## 🌈 Contribution Journey  
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
-
----
-
-## 🌸 Thanks for Visiting! Do visit again!!!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
-</p>
-<p align="center"><i>“Come back soon. More magic loading...” ✨</i></p>
-
-
-
-
-
-
-
-
-
-
-
