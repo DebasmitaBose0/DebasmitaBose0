@@ -82,20 +82,15 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📊 Top Languages  
-
-
+## 📊 Top Languages
 <p align="center">
-  <img
-    src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=DebasmitaBose0&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=7200"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
+## 🏆 GitHub Profile Stats
+![Profile views](https://komarev.com/ghpvc/?username=DebasmitaBose0&style=for-the-badge)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DebasmitaBose0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+
 
 ## 🐍 Contribution Snake Graph  
 <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -128,3 +123,10 @@
 </p>
 
 ---
+
+
+
+
+
+
+
