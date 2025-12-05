@@ -88,7 +88,12 @@
 </p>
 
 ## 🏆 GitHub Profile Stats
-![Profile views](https://komarev.com/ghpvc/?username=DebasmitaBose0&style=for-the-badge)
+<p align="center">
+  <img
+    src="https://github-readme-stats-ruddy-one.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
 
 
@@ -127,6 +132,13 @@
 
 
 
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 
 
