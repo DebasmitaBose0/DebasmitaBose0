@@ -106,6 +106,20 @@
 
 ---
 
+## ⚡ Skill Matrix — Always Leveling Up
+
+<p align="center">
+  <img src="./xp-bars.svg" alt="XP Bars"/>
+</p>
+
+<p align="center">
+  <img src="./skills-radar.svg" alt="Skill Radar Chart"/>
+</p>
+
+Grinding XP in: **Java**, **Python**, **Web Dev**, **Problem Solving**, and **AI**
+
+---
+
 # 🧠 My GitHub Overview  
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
