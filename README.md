@@ -84,8 +84,12 @@
 
 ## 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasmitaBose0&theme=tokyonight&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats-ruddy-one.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
+
 
 ## 🏆 GitHub Profile Stats
 <p align="center">
@@ -128,17 +132,3 @@
 </p>
 
 ---
-
-
-
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-
-
