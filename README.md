@@ -99,10 +99,24 @@
   />
 </p>
 
-
-
 ## 🐍 Contribution Snake Graph  
 <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+## ⚡ Skill Matrix — Always Leveling Up
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DebasmitaBose0/DebasmitaBose0/main/xp-bars.svg" alt="XP Bars" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DebasmitaBose0/DebasmitaBose0/main/skills-radar.svg" alt="Skill Radar Chart" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Leveling%20Up%20Web%20Development%20%E2%9A%A1;Leveling%20Up%20Python%20%F0%9F%90%8D;Leveling%20Up%20Java%20%E2%98%95;Mastering%20Problem%20Solving%20%F0%9F%A7%A0;Exploring%20AI%20%F0%9F%A4%96" alt="Skill Animation"/>
+</p>
+
+🧠 *Every commit adds experience to this skill tree — just like an RPG character.*
 
 ---
 
