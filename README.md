@@ -28,6 +28,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%7C+Web+Development;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
+## <p align="center"> 💀 Welcome to this section of my profile 
+*Click here if you are brave enough 💀*- https://debasmitabose0.github.io/
+
 ## 💫 Quick Snapshot  
 
 - 🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University**  
