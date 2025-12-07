@@ -146,11 +146,3 @@
 </p>
 
 ---
-
-
-
-
-
-
-### 🚀 Enter My Cyber Lair
-[👉 Click here if you dare](https://DebasmitaBose0.github.io)
