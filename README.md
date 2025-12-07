@@ -29,7 +29,7 @@
 </p>
 
 ## <p align="center"> 💀 Welcome to this section of my profile 
-💀💀 *Click here if you are brave enough 💀*- https://debasmitabose0.github.io/
+💀 *Click here if you are brave enough 💀*- https://debasmitabose0.github.io/
 
 ## 💫 Quick Snapshot  
 
