@@ -1,4 +1,5 @@
-name: Auto Refresh README
+name: Daily Activity Auto Commit
+
 
 on:
   schedule:
