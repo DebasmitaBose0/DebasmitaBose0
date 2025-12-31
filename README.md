@@ -52,10 +52,10 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" height="55"/><br/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,js,typescript" height="55"/><br/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,html,css" height="55"/><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/><br/>
       </td>
       <td align="center">
         <table>
@@ -67,6 +67,8 @@
             <td align="center">🤝 Teamwork</td>
             <td align="center">🔄 Adaptability</td>
           </tr>
+            <td align="center">🌐 Web Development</td>
+            <td align="center">🗣️ Communicating is my power</td>
         </table>
       </td>
     </tr>
