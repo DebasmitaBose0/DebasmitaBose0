@@ -1,0 +1,34 @@
+<svg width="500" height="220" viewBox="0 0 500 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .title { fill: #ff69b4; font-size: 20px; font-weight: 600; font-family: 'Segoe UI', sans-serif; }
+    .label { fill: #ffc0cb; font-size: 14px; font-family: 'Segoe UI', sans-serif; }
+
+    .html { fill: #ff4da6; }
+    .css  { fill: #c77dff; }
+    .ts   { fill: #ff85c1; }
+    .py   { fill: #ffb6c1; }
+    .js   { fill: #ffd1dc; }
+  </style>
+
+  <rect class="bg" width="500" height="220" rx="18"/>
+
+  <text x="250" y="32" text-anchor="middle" class="title">
+    Most Used Languages
+  </text>
+
+  <rect x="40" y="60" width="170" height="14" rx="7" class="html"/>
+  <text x="230" y="72" class="label">HTML — 34%</text>
+
+  <rect x="40" y="85" width="115" height="14" rx="7" class="css"/>
+  <text x="230" y="97" class="label">CSS — 23%</text>
+
+  <rect x="40" y="110" width="90" height="14" rx="7" class="ts"/>
+  <text x="230" y="122" class="label">TypeScript — 18%</text>
+
+  <rect x="40" y="135" width="70" height="14" rx="7" class="py"/>
+  <text x="230" y="147" class="label">Python — 13%</text>
+
+  <rect x="40" y="160" width="60" height="14" rx="7" class="js"/>
+  <text x="230" y="172" class="label">JavaScript — 12%</text>
+</svg>
