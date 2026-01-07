@@ -1,4 +1,4 @@
-## <h1 align="center">✨ Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40">, I'm Debasmita Bose ✨</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=💖+Debasmita+Bose+💖;👩‍💻+Girl+Who+Codes;🤖+AI+%7C+Web+%7C+Problem+Solving;🌸+Building+Dreams+with+Code" />
 
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif" width="700" alt="Cool GIF" />
