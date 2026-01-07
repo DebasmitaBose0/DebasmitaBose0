@@ -1,0 +1,29 @@
+<svg width="500" height="240" viewBox="0 0 500 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .title { fill: #ff69b4; font-size: 20px; font-weight: 600; font-family: 'Segoe UI', sans-serif; }
+    .label { fill: #ffc0cb; font-size: 15px; font-family: 'Segoe UI', sans-serif; }
+    .value { fill: #ffffff; font-weight: 600; }
+    .ring-bg { stroke: #2a2a2a; stroke-width: 10; fill: none; }
+    .ring { stroke: #ff69b4; stroke-width: 10; fill: none; stroke-linecap: round; }
+  </style>
+
+  <rect class="bg" width="500" height="240" rx="18"/>
+
+  <text x="250" y="32" text-anchor="middle" class="title">Debasmita Bose • GitHub Stats</text>
+
+  <text x="40" y="80" class="label">⭐ Stars: <tspan class="value">6</tspan></text>
+  <text x="40" y="110" class="label">📦 Commits (2026): <tspan class="value">469</tspan></text>
+  <text x="40" y="140" class="label">🔀 PRs: <tspan class="value">11</tspan></text>
+  <text x="40" y="170" class="label">🐞 Issues: <tspan class="value">0</tspan></text>
+  <text x="40" y="200" class="label">🤝 Contributed to: <tspan class="value">2</tspan></text>
+
+  <!-- A+ Ring -->
+  <circle cx="400" cy="140" r="42" class="ring-bg"/>
+  <circle cx="400" cy="140" r="42" class="ring"
+          stroke-dasharray="264"
+          stroke-dashoffset="40"
+          transform="rotate(-90 400 140)"/>
+
+  <text x="400" y="148" text-anchor="middle" font-size="22" fill="#ffffff" font-weight="700">A+</text>
+</svg>
