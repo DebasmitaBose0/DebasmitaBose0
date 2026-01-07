@@ -94,10 +94,7 @@
 
 ## 🏆 GitHub Profile Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats-ruddy-one.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=rose&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="./assets/github-stats.svg" />
 </p>
 
 ## 🐍 Contribution Snake Graph  
