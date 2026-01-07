@@ -89,7 +89,7 @@
 ## 📊 Top Languages
 <p align="center">
   <img
-    src="https://github-readme-stats-ruddy-one.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-ruddy-one.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=rose&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -97,7 +97,7 @@
 ## 🏆 GitHub Profile Stats
 <p align="center">
   <img
-    src="https://github-readme-stats-ruddy-one.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-ruddy-one.vercel.app/api?username=DebasmitaBose0&show_icons=true&theme=rose&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
@@ -218,9 +218,7 @@
 <!-- last refresh: Tue Jan  6 12:53:23 UTC 2026 -->
 <!-- last refresh: Tue Jan  6 18:37:47 UTC 2026 -->
 <!-- last refresh: Wed Jan  7 02:01:23 UTC 2026 -->
-
-
-
-
 <!-- last refresh: Wed Jan  7 06:39:49 UTC 2026 -->
 <!-- last refresh: Wed Jan  7 12:54:48 UTC 2026 -->
+
+
