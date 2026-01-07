@@ -87,11 +87,9 @@
 </p>
 
 ## 📊 Top Languages
+
 <p align="center">
-  <img
-    src="https://github-readme-stats-ruddy-one.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&theme=rose&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Profile Stats
