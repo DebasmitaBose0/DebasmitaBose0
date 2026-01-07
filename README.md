@@ -102,12 +102,14 @@
 
 ## ⚡ Skill Matrix — Always Leveling Up
 
+### 🔥 XP Progress
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DebasmitaBose0/DebasmitaBose0/main/xp-bars.svg" alt="XP Bars" />
+  <img src="./assets/xp-progress-pink.svg" alt="XP Progress" />
 </p>
 
+### 🧠 Skill Radar
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DebasmitaBose0/DebasmitaBose0/main/skills-radar.svg" alt="Skill Radar Chart" />
+  <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
 </p>
 
 <p align="center">
