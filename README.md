@@ -120,11 +120,11 @@
 
 ---
 
-# 🧠 My GitHub Overview  
+## 🧠 My GitHub Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=tokyonight" alt="GitHub Profile Summary"/>
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=0d1117&color=37BCF6&line=00FFC6&point=FFFFFF&area=true&hide_border=true&radius=16&custom_title=My%20Active%20Contribution%20Graph%20🔥" width="95%"/>
+<p align="center">
+  <img src="assets/github-overview-pink.svg" alt="GitHub Overview Pink" />
+</p>
 
 ---
 
@@ -217,6 +217,5 @@
 <!-- last refresh: Wed Jan  7 02:01:23 UTC 2026 -->
 <!-- last refresh: Wed Jan  7 06:39:49 UTC 2026 -->
 <!-- last refresh: Wed Jan  7 12:54:48 UTC 2026 -->
-
 <!-- last refresh: Wed Jan  7 18:39:10 UTC 2026 -->
 <!-- last refresh: Thu Jan  8 02:01:40 UTC 2026 -->
