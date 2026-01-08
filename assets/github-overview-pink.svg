@@ -22,12 +22,7 @@
   <!-- Card -->
   <rect x="20" y="20" width="860" height="280" rx="20" class="card"/>
 
-  <!-- Header -->
-  <text x="450" y="55" text-anchor="middle" class="title">
-    🧠 My GitHub Overview
-  </text>
-
-  <!-- Left Info -->
+   <!-- Left Info -->
   <text x="60" y="100" class="name">DebasmitaBose0 (Debasmita Bose)</text>
 
   <text x="60" y="135" class="text">🌸 170 Contributions in 2026</text>
