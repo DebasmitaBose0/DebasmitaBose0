@@ -1,0 +1,67 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pinkArea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff85c1" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ff69b4" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .bg { fill: #0d1117; }
+    .card { fill: #121826; }
+    .title { fill: #ff69b4; font-size: 26px; font-weight: 700; font-family: Arial, sans-serif; }
+    .name { fill: #7aa2ff; font-size: 20px; font-weight: 600; }
+    .text { fill: #ffc0cb; font-size: 15px; }
+    .accent { fill: #ffb6c1; }
+    .axis { stroke: #2a2a2a; stroke-width: 1; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="900" height="320" rx="22"/>
+
+  <!-- Card -->
+  <rect x="20" y="20" width="860" height="280" rx="20" class="card"/>
+
+  <!-- Header -->
+  <text x="450" y="55" text-anchor="middle" class="title">
+    🧠 My GitHub Overview
+  </text>
+
+  <!-- Left Info -->
+  <text x="60" y="100" class="name">DebasmitaBose0 (Debasmita Bose)</text>
+
+  <text x="60" y="135" class="text">🌸 170 Contributions in 2026</text>
+  <text x="60" y="160" class="text">💖 30 Public Repositories</text>
+  <text x="60" y="185" class="text">🕒 Joined GitHub 2 years ago</text>
+  <text x="60" y="210" class="text">🎓 Adamas University</text>
+
+  <!-- Graph Axis -->
+  <line x1="380" y1="240" x2="820" y2="240" class="axis"/>
+  <line x1="380" y1="90" x2="380" y2="240" class="axis"/>
+
+  <!-- Area Graph -->
+  <path
+    d="M380 240
+       L420 235
+       L460 230
+       L500 220
+       L540 210
+       L580 180
+       L620 200
+       L660 120
+       L700 90
+       L740 130
+       L780 110
+       L820 80
+       L820 240 Z"
+    fill="url(#pinkArea)"
+  />
+
+  <!-- Line -->
+  <polyline
+    points="380,240 420,235 460,230 500,220 540,210 580,180 620,200 660,120 700,90 740,130 780,110 820,80"
+    fill="none"
+    stroke="#ff69b4"
+    stroke-width="3"
+  />
+</svg>
