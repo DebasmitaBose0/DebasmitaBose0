@@ -120,6 +120,13 @@
 
 ---
 
+## 🔥 My Active Contribution Graph
+
+<p align="center">
+  <img src="assets/contribution-graph-pink.svg" alt="Contribution Graph Pink" />
+</p>
+
+
 # 🤝 Connect With Me  
 
 <p align="center">
