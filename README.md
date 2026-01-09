@@ -123,9 +123,11 @@
 ## 🔥 My Active Contribution Graph
 
 <p align="center">
-  <img src="assets/contribution-graph-pink.svg" alt="Contribution Graph Pink" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=transparent&color=FF69B4&line=FF69B4&point=FFC0CB&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
 
 # 🤝 Connect With Me  
 
