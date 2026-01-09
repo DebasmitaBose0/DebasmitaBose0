@@ -1,0 +1,27 @@
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: mkdir -p data
+
+      - run: node .github/scripts/fetch-contributions.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: node .github/scripts/generate-svg.js
+
+      - run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add assets/contribution-graph-pink-clean.svg data/contributions.json
+          git commit -m "update contribution graph" || exit 0
+          git push
