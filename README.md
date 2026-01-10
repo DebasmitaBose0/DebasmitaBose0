@@ -114,6 +114,8 @@
 
 ---
 
+##✨ GitHub Overview ✨
+
 <p align="center">
   <img src="assets/github-overview-pink.svg" alt="GitHub Overview Pink" />
 </p>
@@ -128,6 +130,8 @@
     alt="Contribution Graph"
   />
 </p>
+
+---
 
 # 🤝 Connect With Me  
 
