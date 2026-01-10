@@ -114,7 +114,7 @@
 
 ---
 
-##✨ GitHub Overview ✨
+## ✨ GitHub Overview ✨
 
 <p align="center">
   <img src="assets/github-overview-pink.svg" alt="GitHub Overview Pink" />
