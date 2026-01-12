@@ -11,7 +11,6 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGkyeXoxNy1iODA5YmY5NC04NjIyLTRiNTEtOTAxZi0zZDg0ZGE0OWFkNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M4Riwrjoo265UYd_MNvscxG_WmxXLEEpmaSvYv-t2nE" width="700" alt="Cool GIF" />
 </p>
 
-
 <p align="center">
   <a href="mailto:dbose272@gmail.com"><img src="https://img.shields.io/badge/Personal--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="mailto:debasmita.bose@stu.adamasuniversity.ac.in"><img src="https://img.shields.io/badge/University--Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -150,85 +149,3 @@
 </p>
 
 ---
-<!-- last refresh: Sun Dec 21 05:55:15 UTC 2025 -->
-<!-- last refresh: Sun Dec 21 06:36:07 UTC 2025 -->
-<!-- last refresh: Sun Dec 21 12:46:50 UTC 2025 -->
-<!-- last refresh: Sun Dec 21 18:33:11 UTC 2025 -->
-<!-- last refresh: Mon Dec 22 02:03:59 UTC 2025 -->
-<!-- last refresh: Mon Dec 22 06:40:32 UTC 2025 -->
-<!-- last refresh: Mon Dec 22 12:51:25 UTC 2025 -->
-<!-- last refresh: Mon Dec 22 18:36:11 UTC 2025 -->
-<!-- last refresh: Tue Dec 23 01:59:05 UTC 2025 -->
-<!-- last refresh: Tue Dec 23 06:39:50 UTC 2025 -->
-<!-- last refresh: Tue Dec 23 12:53:03 UTC 2025 -->
-<!-- last refresh: Tue Dec 23 18:36:45 UTC 2025 -->
-<!-- last refresh: Wed Dec 24 01:57:20 UTC 2025 -->
-<!-- last refresh: Wed Dec 24 06:39:39 UTC 2025 -->
-<!-- last refresh: Wed Dec 24 12:51:34 UTC 2025 -->
-<!-- last refresh: Wed Dec 24 18:35:31 UTC 2025 -->
-<!-- last refresh: Thu Dec 25 01:59:17 UTC 2025 -->
-<!-- last refresh: Thu Dec 25 06:38:47 UTC 2025 -->
-<!-- last refresh: Thu Dec 25 12:50:23 UTC 2025 -->
-<!-- last refresh: Thu Dec 25 18:35:00 UTC 2025 -->
-<!-- last refresh: Fri Dec 26 01:58:25 UTC 2025 -->
-<!-- last refresh: Fri Dec 26 06:38:21 UTC 2025 -->
-<!-- last refresh: Fri Dec 26 12:50:41 UTC 2025 -->
-<!-- last refresh: Fri Dec 26 18:34:56 UTC 2025 -->
-<!-- last refresh: Sat Dec 27 01:56:22 UTC 2025 -->
-<!-- last refresh: Sat Dec 27 06:36:40 UTC 2025 -->
-<!-- last refresh: Sat Dec 27 12:48:16 UTC 2025 -->
-<!-- last refresh: Sat Dec 27 18:33:31 UTC 2025 -->
-<!-- last refresh: Sun Dec 28 02:10:02 UTC 2025 -->
-<!-- last refresh: Sun Dec 28 06:36:58 UTC 2025 -->
-<!-- last refresh: Sun Dec 28 12:49:14 UTC 2025 -->
-<!-- last refresh: Sun Dec 28 18:34:38 UTC 2025 -->
-<!-- last refresh: Mon Dec 29 02:08:19 UTC 2025 -->
-<!-- last refresh: Mon Dec 29 06:41:19 UTC 2025 -->
-<!-- last refresh: Mon Dec 29 12:53:51 UTC 2025 -->
-<!-- last refresh: Mon Dec 29 18:36:14 UTC 2025 -->
-<!-- last refresh: Tue Dec 30 01:59:48 UTC 2025 -->
-<!-- last refresh: Tue Dec 30 06:38:44 UTC 2025 -->
-<!-- last refresh: Tue Dec 30 12:53:09 UTC 2025 -->
-<!-- last refresh: Tue Dec 30 18:37:14 UTC 2025 -->
-<!-- last refresh: Wed Dec 31 02:00:14 UTC 2025 -->
-<!-- last refresh: Wed Dec 31 06:39:35 UTC 2025 -->
-<!-- last refresh: Wed Dec 31 12:51:38 UTC 2025 -->
-<!-- last refresh: Wed Dec 31 18:35:29 UTC 2025 -->
-<!-- last refresh: Thu Jan  1 02:10:26 UTC 2026 -->
-<!-- last refresh: Thu Jan  1 06:39:25 UTC 2026 -->
-<!-- last refresh: Thu Jan  1 12:51:28 UTC 2026 -->
-<!-- last refresh: Thu Jan  1 18:35:42 UTC 2026 -->
-<!-- last refresh: Fri Jan  2 02:02:00 UTC 2026 -->
-<!-- last refresh: Fri Jan  2 06:39:27 UTC 2026 -->
-<!-- last refresh: Fri Jan  2 12:50:47 UTC 2026 -->
-<!-- last refresh: Fri Jan  2 18:35:35 UTC 2026 -->
-<!-- last refresh: Sat Jan  3 01:55:17 UTC 2026 -->
-<!-- last refresh: Sat Jan  3 06:36:59 UTC 2026 -->
-<!-- last refresh: Sat Jan  3 12:48:47 UTC 2026 -->
-<!-- last refresh: Sat Jan  3 18:33:54 UTC 2026 -->
-<!-- last refresh: Sun Jan  4 02:11:46 UTC 2026 -->
-<!-- last refresh: Sun Jan  4 06:37:37 UTC 2026 -->
-<!-- last refresh: Sun Jan  4 12:49:14 UTC 2026 -->
-<!-- last refresh: Sun Jan  4 18:34:15 UTC 2026 -->
-<!-- last refresh: Mon Jan  5 02:11:27 UTC 2026 -->
-<!-- last refresh: Mon Jan  5 06:45:24 UTC 2026 -->
-<!-- last refresh: Mon Jan  5 12:55:43 UTC 2026 -->
-<!-- last refresh: Mon Jan  5 18:38:48 UTC 2026 -->
-<!-- last refresh: Tue Jan  6 02:01:43 UTC 2026 -->
-<!-- last refresh: Tue Jan  6 06:40:33 UTC 2026 -->
-<!-- last refresh: Tue Jan  6 12:53:23 UTC 2026 -->
-<!-- last refresh: Tue Jan  6 18:37:47 UTC 2026 -->
-<!-- last refresh: Wed Jan  7 02:01:23 UTC 2026 -->
-<!-- last refresh: Wed Jan  7 06:39:49 UTC 2026 -->
-<!-- last refresh: Wed Jan  7 12:54:48 UTC 2026 -->
-<!-- last refresh: Wed Jan  7 18:39:10 UTC 2026 -->
-<!-- last refresh: Thu Jan  8 02:01:40 UTC 2026 -->
-<!-- last refresh: Thu Jan  8 06:40:18 UTC 2026 -->
-<!-- last refresh: Thu Jan  8 12:55:22 UTC 2026 -->
-<!-- last refresh: Thu Jan  8 18:35:01 UTC 2026 -->
-<!-- last refresh: Fri Jan  9 02:03:09 UTC 2026 -->
-<!-- last refresh: Fri Jan  9 06:40:06 UTC 2026 -->
-<!-- last refresh: Fri Jan  9 12:54:01 UTC 2026 -->
-<!-- last refresh: Fri Jan  9 18:38:35 UTC 2026 -->
-<!-- last refresh: Sat Jan 10 01:58:49 UTC 2026 -->
-<!-- last refresh: Sat Jan 10 06:36:03 UTC 2026 -->
