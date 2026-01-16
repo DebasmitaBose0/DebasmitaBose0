@@ -102,10 +102,6 @@
 ## ⚡🧠 Skill Matrix and Skill Radar — Always Leveling Up
 
 <p align="center">
-  <img src="./assets/xp-progress-pink.svg" alt="XP Progress" />
-</p>
-
-<p align="center">
   <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
 </p>
 
