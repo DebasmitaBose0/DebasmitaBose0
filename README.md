@@ -112,8 +112,9 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-## ⚡🧠 Skill Matrix and Skill Radar — Always Leveling Up
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Skill%20Radar&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 <p align="center">
   <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
 </p>
@@ -122,16 +123,18 @@
 
 ---
 
-## ✨ GitHub Overview ✨
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=✨%20Github%20Overview%20✨&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 <p align="center">
   <img src="assets/github-overview-pink.svg" alt="GitHub Overview Pink" />
 </p>
 
 ---
 
-## 🔥 My Active Contribution Graph
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20My%20Active%20Contribution%20Graph&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=transparent&color=FF69B4&line=FF69B4&point=FFC0CB&hide_border=true"
@@ -141,8 +144,9 @@
 
 ---
 
-# 🤝 Connect With Me  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🤝%20Connect%20With%20Me&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p> 
 <p align="center">
   <a href="mailto:debasmitabose06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -150,11 +154,3 @@
 </p>
 
 ---
-
-<style>
-@keyframes moveTogether {
-  0% { transform: translateX(-15px); }
-  100% { transform: translateX(15px); }
-}
-</style>
-
