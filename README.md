@@ -82,19 +82,21 @@
 
 ---
 
-# <p align="center">  📈 GitHub Stats & Activity  
-
-<div align="center">
-
-## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=📈%20Github%20Stats%20and%20Activity&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Github%20Streak&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📊 Top Languages
-
 <p align="center">
-  <img src="./assets/top-languages.svg" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=📊%20Top%20Languages&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
+<p align="center">
+<img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Profile Stats
