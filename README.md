@@ -19,9 +19,7 @@
   <a href="https://www.linkedin.com/in/debasmita-bose-0002b329a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
-
-# <h1 align="center">
+## <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🪩%20About%20Me&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </h1>
 
@@ -29,10 +27,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
-## <p align="center"> 💀 Welcome To This Section Of My Profile 
-*💀 Click here if you are brave enough 💀*- https://debasmitabose0.github.io/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💀%20Welcome%20To%20This%20Section%20Of%20My%20Profile&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p> 💀 Click here if you are brave enough 💀- https://debasmitabose0.github.io/
 
-## 💫 Quick Snapshot  
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💫%20Quick%20Snapshot&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 
 - 🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University**  
 - 💡 Passionate about **AI, Data Science, and Web Development**  
@@ -42,8 +45,9 @@
 
 ---
 
-# <p align="center">  🛠 Tech Stack  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🛠%20Tech%20Stack&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 <p align="center">
   <table>
     <tr>
