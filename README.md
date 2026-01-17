@@ -99,12 +99,17 @@
 <img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Profile Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🏆%20Github%20Profile%20Stats&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
 <p align="center">
   <img src="./assets/github-stats.svg" />
 </p>
 
-## 🐍 Contribution Snake Graph  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🐍%20Contribution%20Snake%20Graph&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ## ⚡🧠 Skill Matrix and Skill Radar — Always Leveling Up
