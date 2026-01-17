@@ -83,7 +83,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=📈%20Github%20Stats%20and%20Activity&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=140&section=header&text=📈%20Github%20Stats%20and%20Activity&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Github%20Streak&fontSize=26&fontColor=ffffff&animation=twinkling" />
