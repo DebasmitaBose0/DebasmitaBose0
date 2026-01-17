@@ -21,7 +21,9 @@
 
 ---
 
-# <p align="center"> 🪩 About Me
+# <h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🪩%20About%20Me&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
@@ -138,11 +140,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FFFF&center=true&vCenter=true&width=850&lines=⭐+Thanks+for+visiting+my+profile!;🌈+Don't+forget+to+star+my+repos+and+follow!;🚀+Let's+collaborate+and+build+something+amazing!" alt="Typing Animation" />
-</p>
+<style>
+@keyframes moveTogether {
+  0% { transform: translateX(-15px); }
+  100% { transform: translateX(15px); }
+}
+</style>
 
----
