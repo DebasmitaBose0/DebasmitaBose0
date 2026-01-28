@@ -37,7 +37,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💫%20Quick%20Snapshot&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 
-- 🧠 Pursuing *B.Tech in Computer Science & Engineering* at *Adamas University*
+- 🧠 Pursuing *B.Tech in Computer Science & Engineering* at *8Adamas University*
 - 💡 Passionate about **AI, Data Science, and Web Development**  
 - 🔧 Solving *real-world problems through code and logic*  
 - 🤝 Believer in *collaboration, adaptability,* and a **growth mindset**  
