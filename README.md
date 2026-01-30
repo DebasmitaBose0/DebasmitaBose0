@@ -1,3 +1,5 @@
+![YOLO](https://img.shields.io/badge/YOLO-100%25-red?style=for-the-badge)
+
 # <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40"> I am </h1>
 
 <p align="center">
