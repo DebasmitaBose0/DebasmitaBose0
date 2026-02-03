@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%96+Debasmita+Bose+%F0%9F%92%96;%F0%9F%91%A9%F0%9F%92%BB+Girl+Who+Codes;%F0%9F%A4%96+AI+%7C+Web+%7C+Problem+Solving;%F0%9F%8C%B8+Building+Dreams+with+Code" />
 </p>
 
-<p align="center">
+
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif" width="700" alt="Cool GIF" />
 </p>
 
