@@ -1,4 +1,4 @@
-# <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40"> I am <h1
+# <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40"> I am <h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%96+Debasmita+Bose+%F0%9F%92%96;%F0%9F%91%A9%F0%9F%92%BB+Girl+Who+Codes;%F0%9F%A4%96+AI+%7C+Web+%7C+Problem+Solving;%F0%9F%8C%B8+Building+Dreams+with+Code" />
