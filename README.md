@@ -28,11 +28,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💀%20Welcome%20To%20This%20Section%20Of%20My%20Profile%20💀&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p> 
-<p align="center">💀 Click here if you are brave enough 💀- https://debasmitabose0.github.io/ </p>
-
 ---
 
 <p align="center">
