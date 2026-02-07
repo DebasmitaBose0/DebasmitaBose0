@@ -1,7 +1,7 @@
-# <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40"> I am <h1>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40"> I am Debasmita Bose </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%92%96+Debasmita+Bose+%F0%9F%92%96;%F0%9F%91%A9%F0%9F%92%BB+Girl+Who+Codes;%F0%9F%A4%96+AI+%7C+Web+%7C+Problem+Solving;%F0%9F%8C%B8+Building+Dreams+with+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+AI+%7C+Web+%7C+Problem+Solving+%F0%9F%8C%90;%F0%9F%8C%B8+Building+Dreams+with+Code+%F0%9F%8C%B8" />
 </p>
 
 <p align="center">
@@ -19,34 +19,40 @@
   <a href="https://www.linkedin.com/in/debasmita-bose-0002b329a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🪩%20About%20Me&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</h1>
+## 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=👧%20About%20Me%20👧&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💀%20Welcome%20To%20This%20Section%20Of%20My%20Profile&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p> 💀 Click here if you are brave enough 💀- https://debasmitabose0.github.io/
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💀%20Welcome%20To%20This%20Section%20Of%20My%20Profile%20💀&fontSize=26&fontColor=ffffff&animation=twinkling" />
+</p> 
+<p align="center">💀 Click here if you are brave enough 💀- https://debasmitabose0.github.io/ </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💫%20Quick%20Snapshot&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💫%20Quick%20Snapshot%20💫&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 
-- 🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University**
-- 💡 Passionate about **AI, Data Science, and Web Development**  
-- 🔧 Solving *real-world problems through code and logic*  
-- 🤝 Believer in *collaboration, adaptability,* and a **growth mindset**  
-- 🚀 Open to **internships, projects, and research opportunities**
+> 🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University**
+> 
+> 💡 Passionate about **AI, Data Science, and Web Development**
+> 
+> 🔧 Solving *real-world problems through code and logic*
+> 
+> 🤝 Believer in *collaboration, adaptability,* and a **growth mindset**
+> 
+> 🚀 Open to **internships, projects, and research opportunities**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🛠%20Tech%20Stack&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🛠%20Tech%20Stack%20🛠&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
   <table>
@@ -83,43 +89,38 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=140&section=header&text=📈%20Github%20Stats%20and%20Activity&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=140&section=header&text=📈%20Github%20Stats%20and%20Activity%20📈&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Github%20Streak&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Github%20Streak%20🔥&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=📊%20Top%20Languages&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=📊%20Top%20Languages%20📊&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
 <img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🏆%20Github%20Profile%20Stats&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🏆%20Github%20Profile%20Stats%20🏆&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
   <img src="./assets/github-stats.svg" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🐍%20Contribution%20Snake%20Graph&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Skill%20Radar&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Skill%20Radar%20🔥&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
   <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
 </p>
 
-🧠 *Every commit adds experience to this skill tree — just like an RPG character.*
+> 🧠 *Every commit adds experience to this skill tree — just like an RPG character.*
 
 ---
 
@@ -133,7 +134,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20My%20Active%20Contribution%20Graph&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20My%20Active%20Contribution%20Graph%20🔥&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p>
 <p align="center">
   <img 
@@ -145,15 +146,14 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🤝%20Connect%20With%20Me&fontSize=26&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🤝%20Connect%20With%20Me%20🤝&fontSize=26&fontColor=ffffff&animation=twinkling" />
 </p> 
 <p align="center">
-  <a href="mailto:debasmitabose06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:dbose272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/debasmita-bose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
-
 
 <p align="center">
