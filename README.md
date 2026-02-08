@@ -112,7 +112,7 @@
   <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
 </p>
 
-> 🧠 **Every commit adds experience to this skill tree — just like an RPG character.*
+> 🧠 **Every commit adds experience to this skill tree — just like an RPG character**
 
 ---
 
