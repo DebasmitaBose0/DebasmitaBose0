@@ -13,10 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dbose272@gmail.com"><img src="https://img.shields.io/badge/Personal--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="mailto:debasmita.bose@stu.adamasuniversity.ac.in"><img src="https://img.shields.io/badge/University--Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/debasmita-bose-0002b329a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 
