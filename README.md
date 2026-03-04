@@ -82,16 +82,13 @@
 <img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🏆%20Github%20Profile%20Stats%20🏆&fontSize=26&fontColor=ffffff&animation=twinkling" />
+<h2 align="center">🏆Github Profile Stats🏆</h2>
 </p>
 <p align="center">
   <img src="./assets/github-stats.svg" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Skill%20Radar%20🔥&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
+<h2 align="center">🔥Skill Radar🔥</h2>
 <p align="center">
   <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
 </p>
