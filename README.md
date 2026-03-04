@@ -34,9 +34,8 @@
 - 🤝 **Believer in collaboration, adaptability, and a growth mindset**
 - 🚀 **Open to internships, projects, and research opportunities**
 
----
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 
-# <h1 align="center">🛠 Tech Stack 🛠</h1>
 <p align="center">
   <table>
     <tr>
@@ -71,10 +70,9 @@
 
 ---
 
-# <h1 align="center">📈 Github Stats And Activity 📈
-## <h2 align="center">🔥Github Streak🔥
-  
-</p>
+<h1 align="center">📈 Github Stats And Activity 📈</h1>
+
+<h2 align="center">🔥 Github Streak 🔥</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
