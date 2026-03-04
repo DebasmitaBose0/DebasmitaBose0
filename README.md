@@ -35,6 +35,7 @@
 - 🚀 **Open to internships, projects, and research opportunities**
 
 ---
+
 # <h1 align="center">🛠 Tech Stack 🛠</h1>
 <p align="center">
   <table>
