@@ -15,16 +15,16 @@
   <a href="mailto:debasmita.bose@stu.adamasuniversity.ac.in"><img src="https://img.shields.io/badge/University--Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=👧%20About%20Me%20👧&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</p>
+<div align="center">
 
+---
+
+  # 🙋‍♀️ About Me 🙋‍♀️
+
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💫%20Quick%20Snapshot%20💫&fontSize=26&fontColor=ffffff&animation=twinkling" />
