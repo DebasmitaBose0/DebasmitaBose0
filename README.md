@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
-## 💫 Quick Snapshot
+## <h2 align="center">💫 Quick Snapshot</h2>
 
 - 🧠 **Pursuing B.Tech in Computer Science & Engineering at Adamas University**
 - 💡 **Passionate about AI, Data Science, and Web Development**
@@ -35,10 +35,7 @@
 - 🚀 **Open to internships, projects, and research opportunities**
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🛠%20Tech%20Stack%20🛠&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
+# <h1 align="center">🛠 Tech Stack 🛠</h1>
 <p align="center">
   <table>
     <tr>
