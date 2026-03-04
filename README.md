@@ -26,19 +26,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=💫%20Quick%20Snapshot%20💫&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
+## 💫 Quick Snapshot
 
-> **🧠 Pursuing *B.Tech in Computer Science & Engineering* at **Adamas University****
-> 
-> **💡 Passionate about **AI, Data Science, and Web Development****
-> 
-> **🔧 Solving *real-world problems through code and logic***
-> 
-> **🤝 Believer in *collaboration, adaptability,* and a **growth mindset****
-> 
-> **🚀 Open to **internships, projects, and research opportunities****
+- 🧠 **Pursuing B.Tech in Computer Science & Engineering at Adamas University**
+- 💡 **Passionate about AI, Data Science, and Web Development**
+- 🔧 **Solving real-world problems through code and logic**
+- 🤝 **Believer in collaboration, adaptability, and a growth mindset**
+- 🚀 **Open to internships, projects, and research opportunities**
 
 ---
 
