@@ -97,18 +97,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=✨%20Github%20Overview%20✨&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
+<h1 align="center">✨Github Overview✨</h1>
 <p align="center">
   <img src="assets/github-overview-pink.svg" alt="GitHub Overview Pink" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20My%20Active%20Contribution%20Graph%20🔥&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
+<h1 align="center">🔥My Active Contribution Graph🔥</h1>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=transparent&color=FF69B4&line=FF69B4&point=FFC0CB&hide_border=true"
@@ -118,9 +114,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🤝%20Connect%20With%20Me%20🤝&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p> 
+<h1 align="center">🤝Connect With Me🤝</h1> 
 <p align="center">
   <a href="mailto:dbose272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
