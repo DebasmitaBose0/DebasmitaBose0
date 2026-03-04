@@ -70,9 +70,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=140&section=header&text=📈%20Github%20Stats%20and%20Activity%20📈&fontSize=42&fontColor=ffffff&animation=twinkling" />
-</p>
+# <h1 align="center">📈 Github Stats And Activity 📈
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=🔥%20Github%20Streak%20🔥&fontSize=26&fontColor=ffffff&animation=twinkling" />
   
