@@ -77,9 +77,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FD8&height=120&section=header&text=📊%20Top%20Languages%20📊&fontSize=26&fontColor=ffffff&animation=twinkling" />
-</p>
+<h2 align="center">📊 Top Languages 📊</h2>
 <p align="center">
 <img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
