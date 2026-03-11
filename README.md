@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif" width="700" alt="Cool GIF" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGkyeXoxNy1iODA5YmY5NC04NjIyLTRiNTEtOTAxZi0zZDg0ZGE0OWFkNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M4Riwrjoo265UYd_MNvscxG_WmxXLEEpmaSvYv-t2nE" width="700" alt="Cool GIF" />
