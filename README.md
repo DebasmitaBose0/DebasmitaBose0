@@ -29,7 +29,7 @@
 <h2 align="center">💫 Quick Snapshot</h2>
 
 - 🧠 **Pursuing B.Tech in Computer Science & Engineering at Adamas University**
-- 💡 **Passionate about AI, Data Science, and Web Development**
+- 💡 **Passionate about AI and Web Development**
 - 🔧 **Solving real-world problems through code and logic**
 - 🤝 **Believer in collaboration, adaptability, and a growth mindset**
 - 🚀 **Open to internships, projects, and research opportunities**
