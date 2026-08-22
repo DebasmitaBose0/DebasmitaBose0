@@ -11,19 +11,16 @@
   <rect class="bg" width="500" height="240" rx="18"/>
 
   <text x="250" y="32" text-anchor="middle" class="title">Debasmita Bose • GitHub Stats</text>
+  <text x="250" y="52" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI, sans-serif">Live data via GitHub API</text>
 
-  <text x="40" y="80" class="label">⭐ Stars: <tspan class="value">6</tspan></text>
-  <text x="40" y="110" class="label">📦 Commits (2026): <tspan class="value">469</tspan></text>
-  <text x="40" y="140" class="label">🔀 PRs: <tspan class="value">11</tspan></text>
-  <text x="40" y="170" class="label">🐞 Issues: <tspan class="value">0</tspan></text>
-  <text x="40" y="200" class="label">🤝 Contributed to: <tspan class="value">2</tspan></text>
+  <text x="40" y="82" class="label">⭐ Repositories: <tspan class="value">${REPOSITORIES}</tspan></text>
+  <text x="40" y="112" class="label">⭐ Stars: <tspan class="value">${STARS}</tspan></text>
+  <text x="40" y="142" class="label">👥 Followers: <tspan class="value">${FOLLOWERS}</tspan></text>
+  <text x="40" y="172" class="label">📅 Joined: <tspan class="value">${JOINED}</tspan></text>
+  <text x="40" y="202" class="label">🕐 Updated: <tspan class="value">${UPDATED}</tspan></text>
 
-  <!-- A+ Ring -->
   <circle cx="400" cy="140" r="42" class="ring-bg"/>
-  <circle cx="400" cy="140" r="42" class="ring"
-          stroke-dasharray="264"
-          stroke-dashoffset="40"
-          transform="rotate(-90 400 140)"/>
-
-  <text x="400" y="148" text-anchor="middle" font-size="22" fill="#ffffff" font-weight="700">A+</text>
+  <circle cx="400" cy="140" r="42" class="ring" stroke-dasharray="264" stroke-dashoffset="${RING_OFFSET}" transform="rotate(-90 400 140)"/>
+  <text x="400" y="136" text-anchor="middle" font-size="20" fill="#ffffff" font-weight="700" font-family="Segoe UI, sans-serif">${GRADE}</text>
+  <text x="400" y="154" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI, sans-serif">PROFILE SCORE</text>
 </svg>
