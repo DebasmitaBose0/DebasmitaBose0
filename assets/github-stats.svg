@@ -1,26 +1,17 @@
-<svg width="500" height="240" viewBox="0 0 500 240" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #0d1117; }
-    .title { fill: #ff69b4; font-size: 20px; font-weight: 600; font-family: 'Segoe UI', sans-serif; }
-    .label { fill: #ffc0cb; font-size: 15px; font-family: 'Segoe UI', sans-serif; }
-    .value { fill: #ffffff; font-weight: 600; }
-    .ring-bg { stroke: #2a2a2a; stroke-width: 10; fill: none; }
-    .ring { stroke: #ff69b4; stroke-width: 10; fill: none; stroke-linecap: round; }
-  </style>
-
-  <rect class="bg" width="500" height="240" rx="18"/>
-
-  <text x="250" y="32" text-anchor="middle" class="title">Debasmita Bose • GitHub Stats</text>
-  <text x="250" y="52" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI, sans-serif">Live data via GitHub API</text>
-
-  <text x="40" y="82" class="label">⭐ Repositories: <tspan class="value">${REPOSITORIES}</tspan></text>
-  <text x="40" y="112" class="label">⭐ Stars: <tspan class="value">${STARS}</tspan></text>
-  <text x="40" y="142" class="label">👥 Followers: <tspan class="value">${FOLLOWERS}</tspan></text>
-  <text x="40" y="172" class="label">📅 Joined: <tspan class="value">${JOINED}</tspan></text>
-  <text x="40" y="202" class="label">🕐 Updated: <tspan class="value">${UPDATED}</tspan></text>
-
-  <circle cx="400" cy="140" r="42" class="ring-bg"/>
-  <circle cx="400" cy="140" r="42" class="ring" stroke-dasharray="264" stroke-dashoffset="${RING_OFFSET}" transform="rotate(-90 400 140)"/>
-  <text x="400" y="136" text-anchor="middle" font-size="20" fill="#ffffff" font-weight="700" font-family="Segoe UI, sans-serif">${GRADE}</text>
-  <text x="400" y="154" text-anchor="middle" font-size="10" fill="#8b949e" font-family="Segoe UI, sans-serif">PROFILE SCORE</text>
+<svg width="760" height="330" viewBox="0 0 760 330" xmlns="http://www.w3.org/2000/svg">
+<style>.bg{fill:#0d1117}.title{fill:#ff69b4;font-size:24px;font-weight:700;font-family:'Segoe UI',sans-serif}.label{fill:#ffc0cb;font-size:17px;font-family:'Segoe UI',sans-serif}.value{fill:#fff;font-weight:700}.muted{fill:#8b949e;font-size:11px;font-family:'Segoe UI',sans-serif}.ring-bg{stroke:#2a2a2a;stroke-width:11;fill:none}.ring{stroke:#ff69b4;stroke-width:11;fill:none;stroke-linecap:round}</style>
+<rect class="bg" width="760" height="330" rx="18"/>
+<text x="380" y="42" text-anchor="middle" class="title">🏆 GitHub Profile Stats 🏆</text>
+<text x="380" y="68" text-anchor="middle" class="muted">Debasmita Bose 🧿 • Live GitHub API data • 2026</text>
+<text x="45" y="112" class="label">📦 Repositories: <tspan class="value">111</tspan></text>
+<text x="45" y="150" class="label">⭐ Stars: <tspan class="value">49</tspan></text>
+<text x="45" y="188" class="label">👥 Followers: <tspan class="value">25</tspan></text>
+<text x="45" y="226" class="label">💻 Commits (2026): <tspan class="value">4157</tspan></text>
+<text x="45" y="264" class="label">🔀 PRs (2026): <tspan class="value">1651</tspan></text>
+<text x="45" y="302" class="label">🐞 Issues (2026): <tspan class="value">1762</tspan></text>
+<circle cx="610" cy="174" r="42" class="ring-bg"/>
+<circle cx="610" cy="174" r="42" class="ring" stroke-dasharray="263.89" stroke-dashoffset="0" transform="rotate(-90 610 174)"/>
+<text x="610" y="181" text-anchor="middle" font-size="22" fill="#fff" font-weight="700" font-family="Segoe UI,sans-serif">A+</text>
+<text x="610" y="235" text-anchor="middle" class="muted">LIVE SCORE 100/100</text>
+<text x="610" y="255" text-anchor="middle" class="muted">Contributed to 50 repos</text>
 </svg>
