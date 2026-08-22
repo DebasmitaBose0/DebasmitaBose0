@@ -55,7 +55,11 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
     name
     followers { totalCount }
     repositories(ownerAffiliations: OWNER, first: 1) { totalCount }
-    contributionsCollection(from: $from, to: $to) {
+    contributionsCollection(
+    from: $from,
+    to: $to,
+    includePrivateContributions: false
+) {
       totalCommitContributions
       totalPullRequestContributions
       totalIssueContributions
