@@ -1,6 +1,9 @@
 name: Update GitHub Profile Stats
 
 on:
+  push:
+    paths-ignore:
+      - "assets/github-stats.svg"
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
