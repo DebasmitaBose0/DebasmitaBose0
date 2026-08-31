@@ -106,10 +106,7 @@
 
 <h1 align="center">🔥My Active Contribution Graph🔥</h1>
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DebasmitaBose0&bg_color=transparent&color=FF69B4&line=FF69B4&point=FFC0CB&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="./assets/contribution-graph-pink.svg" alt="Debasmita's GitHub Contribution Graph" />
 </p>
 
 ---
