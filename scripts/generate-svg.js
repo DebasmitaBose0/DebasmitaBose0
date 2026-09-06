@@ -1,58 +1,67 @@
 import fs from "fs";
 
 const payload = JSON.parse(fs.readFileSync("data/contributions.json", "utf8"));
-const weeks = payload.weeks || [];
-const total = payload.totalContributions || 0;
+const contributions = payload.contributions || [];
 
-const levelColors = {
-  NONE: "#161b22",
-  FIRST_QUARTILE: "#0e4429",
-  SECOND_QUARTILE: "#006d32",
-  THIRD_QUARTILE: "#26a641",
-  FOURTH_QUARTILE: "#39d353"
-};
+// Group the real daily contribution data into quarterly totals.
+const quarters = new Map();
+for (const day of contributions) {
+  const date = new Date(`${day.date}T00:00:00Z`);
+  const year = date.getUTCFullYear();
+  const quarter = Math.floor(date.getUTCMonth() / 3) + 1;
+  const key = `${year}-Q${quarter}`;
+  quarters.set(key, (quarters.get(key) || 0) + (day.count || 0));
+}
+
+const points = [...quarters.entries()]
+  .sort(([a], [b]) => a.localeCompare(b))
+  .slice(-20)
+  .map(([label, value]) => ({ label, value }));
 
 const width = 1000;
-const height = 260;
-const left = 55;
-const top = 55;
-const cell = 12;
-const gap = 4;
-const weekStep = cell + gap;
+const height = 360;
+const left = 65;
+const right = 35;
+const top = 35;
+const bottom = 65;
+const plotWidth = width - left - right;
+const plotHeight = height - top - bottom;
+const maxValue = Math.max(...points.map(p => p.value), 1);
+const yMax = Math.ceil(maxValue / 10) * 10 || 10;
+const xStep = points.length > 1 ? plotWidth / (points.length - 1) : plotWidth;
+const y = value => top + plotHeight - (value / yMax) * plotHeight;
+const x = index => left + index * xStep;
 
-const rects = [];
-weeks.forEach((week, wi) => {
-  week.contributionDays.forEach((day) => {
-    const date = new Date(`${day.date}T00:00:00Z`);
-    const dow = date.getUTCDay();
-    const x = left + wi * weekStep;
-    const y = top + dow * weekStep;
-    const color = levelColors[day.contributionLevel] || levelColors.NONE;
-    rects.push(`<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${color}"><title>${day.date}: ${day.contributionCount} contribution${day.contributionCount === 1 ? "" : "s"}</title></rect>`);
-  });
-});
+const grid = [];
+for (let i = 0; i <= 5; i++) {
+  const value = (yMax / 5) * i;
+  const yy = y(value);
+  grid.push(`<line x1="${left}" y1="${yy}" x2="${width - right}" y2="${yy}" stroke="#30363d" stroke-width="1"/>`);
+  grid.push(`<text x="${width - right + 8}" y="${yy + 4}" fill="#8b949e" font-size="11" font-family="Segoe UI, Arial, sans-serif">${Math.round(value)}</text>`);
+}
 
-const monthLabels = [];
-let lastMonth = "";
-weeks.forEach((week, wi) => {
-  const first = week.contributionDays[0];
-  if (!first) return;
-  const date = new Date(`${first.date}T00:00:00Z`);
-  const month = date.toLocaleString("en-US", { month: "short", timeZone: "UTC" });
-  if (month !== lastMonth && wi > 0) {
-    monthLabels.push(`<text x="${left + wi * weekStep}" y="42" fill="#8b949e" font-size="11" font-family="Segoe UI, Arial, sans-serif">${month}</text>`);
-    lastMonth = month;
-  }
-});
+const linePoints = points.map((p, i) => `${x(i)},${y(p.value)}`).join(" ");
+const areaPoints = `${left},${top + plotHeight} ${linePoints} ${x(points.length - 1)},${top + plotHeight}`;
+
+const dots = points.map((p, i) =>
+  `<circle cx="${x(i)}" cy="${y(p.value)}" r="3" fill="#58a6ff"><title>${p.label}: ${p.value} contributions</title></circle>`
+).join("\n");
+
+const labels = points.map((p, i) => {
+  if (points.length > 12 && i % 2 !== 0) return "";
+  return `<text x="${x(i)}" y="${height - 30}" text-anchor="middle" fill="#8b949e" font-size="10" font-family="Segoe UI, Arial, sans-serif">${p.label}</text>`;
+}).join("\n");
 
 const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
-<rect width="${width}" height="${height}" rx="18" fill="#0d1117"/>
-<text x="500" y="25" text-anchor="middle" fill="#ff69b4" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif">🔥 My Active Contribution Graph 🔥</text>
-<text x="500" y="225" text-anchor="middle" fill="#8b949e" font-size="12" font-family="Segoe UI, Arial, sans-serif">${total} contributions • Live GitHub contribution data</text>
-${monthLabels.join("\n")}
-${rects.join("\n")}
-<text x="${left - 5}" y="${top + 2 * weekStep + 3}" text-anchor="end" fill="#8b949e" font-size="10" font-family="Segoe UI, Arial, sans-serif">Wed</text>
-<text x="${left - 5}" y="${top + 4 * weekStep + 3}" text-anchor="end" fill="#8b949e" font-size="10" font-family="Segoe UI, Arial, sans-serif">Fri</text>
+<rect width="${width}" height="${height}" rx="14" fill="#0d1117"/>
+<text x="${width / 2}" y="25" text-anchor="middle" fill="#ff69b4" font-size="20" font-weight="700" font-family="Segoe UI, Arial, sans-serif">🔥 My Active Contribution Graph 🔥</text>
+${grid.join("\n")}
+<text x="${width - 5}" y="${top - 8}" text-anchor="end" fill="#8b949e" font-size="11" font-family="Segoe UI, Arial, sans-serif">Contributions</text>
+<polygon points="${areaPoints}" fill="#58a6ff" opacity="0.12"/>
+<polyline points="${linePoints}" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+${dots}
+${labels}
+<text x="${width / 2}" y="${height - 8}" text-anchor="middle" fill="#8b949e" font-size="11" font-family="Segoe UI, Arial, sans-serif">Quarter</text>
 </svg>`;
 
 fs.writeFileSync("assets/contribution-graph-pink.svg", svg);
