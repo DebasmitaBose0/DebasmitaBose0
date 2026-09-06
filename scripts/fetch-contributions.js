@@ -2,43 +2,25 @@ import fs from "fs";
 import https from "https";
 
 const USER = "DebasmitaBose0";
-const query = JSON.stringify({
-  query: `query { user(login: "${USER}") { contributionsCollection { contributionCalendar { totalContributions weeks { contributionDays { date contributionCount contributionLevel } } } } } }`
-});
+const URL = `https://github-contributions-api.jogruber.de/v4/${USER}?y=all`;
 
 function fetchData() {
   return new Promise((resolve, reject) => {
-    const req = https.request({
-      hostname: "api.github.com",
-      path: "/graphql",
-      method: "POST",
-      headers: {
-        "User-Agent": "DebasmitaBose0-GitHub-Profile",
-        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-        "Content-Type": "application/json",
-        "Content-Length": Buffer.byteLength(query)
-      }
-    }, res => {
+    https.get(URL, { headers: { "User-Agent": "DebasmitaBose0-GitHub-Profile" } }, res => {
       let data = "";
-      res.on("data", d => data += d);
+      res.on("data", chunk => data += chunk);
       res.on("end", () => {
         try {
-          const json = JSON.parse(data);
-          if (json.errors) reject(new Error(JSON.stringify(json.errors)));
-          else resolve(json);
+          if (res.statusCode !== 200) reject(new Error(`Contribution API returned ${res.statusCode}`));
+          else resolve(JSON.parse(data));
         } catch (error) { reject(error); }
       });
-    });
-    req.on("error", reject);
-    req.write(query);
-    req.end();
+    }).on("error", reject);
   });
 }
 
 const json = await fetchData();
-const calendar = json.data.user.contributionsCollection.contributionCalendar;
+if (!Array.isArray(json.contributions)) throw new Error("Invalid contribution API response");
+
 fs.mkdirSync("data", { recursive: true });
-fs.writeFileSync("data/contributions.json", JSON.stringify({
-  totalContributions: calendar.totalContributions,
-  weeks: calendar.weeks
-}));
+fs.writeFileSync("data/contributions.json", JSON.stringify(json));
