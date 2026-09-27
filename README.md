@@ -287,53 +287,19 @@ Learning new technologies, collaborating and experimenting with new ideas.
 
 <br/>
 
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="Debasmita GitHub Streak"/>
-
-<br/><br/>
-
-### 📈 GitHub Profile
-
-<img src="./assets/github-stats.svg" alt="GitHub Stats"/>
+<!-- Streak Card with IST Timezone Enabled -->
+<img src="https://streak-stats.demolab.com/?user=DebasmitaBose0&theme=github_dark&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak" />
 
 <br/><br/>
 
-### 🧠 Skill Radar
-
-<img src="./assets/skill-radar-pink.svg" alt="Skill Radar"/>
-
-<br/><br/>
-
-<sub><em>Every commit adds experience to this skill tree — just like an RPG character!</em></sub>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 GitHub Overview
-
-<br/>
-
-<img src="./assets/github-overview-pink.svg" alt="GitHub Overview"/>
+<!-- GitHub Stats & Top Languages Cards -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DebasmitaBose0&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&v=4" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DebasmitaBose0&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&v=4" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="./assets/contribution-graph-pink.svg" alt="Debasmita's GitHub Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Top Languages
-
-<br/>
-
-<img src="./assets/top-languages.svg" alt="Top Languages"/>
+<!-- Stable Activity Summary Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebasmitaBose0&theme=github_dark" alt="Activity Summary" />
 
 </div>
 
