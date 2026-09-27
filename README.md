@@ -1,124 +1,377 @@
-# <p align="center">Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40"> I am Debasmita Bose </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+AI+%7C+Web+%7C+Problem+Solving+%F0%9F%8C%90;%F0%9F%8C%B8+Building+Dreams+With+Code+%F0%9F%8C%B8" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4A044E,50:BE185D,100:EC4899&text=Debasmita&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Web%20Development%20%7C%20Problem%20Solving%20%7C%20Open%20Source&descAlignY=61&descAlign=50&descSize=17" alt="Debasmita Header"/>
 </p>
 
-<p align="center"> 
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif" width="700" alt="Cool GIF" />
-</p> 
+# <p align="center">Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40">, I am Debasmita Bose </h1>
 
-<p align="center"> 
+<p align="center">
+  <strong>Building ideas with code at the intersection of AI, web development & problem solving.</strong>
+</p>
+
+<p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/di2yz17-b809bf94-8622-4b51-901f-3d84da49ad5d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGkyeXoxNy1iODA5YmY5NC04NjIyLTRiNTEtOTAxZi0zZDg0ZGE0OWFkNWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M4Riwrjoo265UYd_MNvscxG_WmxXLEEpmaSvYv-t2nE" width="700" alt="Cool GIF" />
 </p>
 
 <p align="center">
-  <a href="mailto:debasmita.bose@stu.adamasuniversity.ac.in"><img src="https://img.shields.io/badge/University--Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Developing+Modern+Web+Experiences;Solving+Problems+with+Code;Exploring+Cloud+%26+Modern+Technologies;Learning+%26+Growing+Every+Day" alt="Typing SVG"/>
 </p>
+
+<p align="center">
+  <a href="mailto:dbose272@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DebasmitaBose0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/debasmita-bose/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:debasmita.bose@stu.adamasuniversity.ac.in">
+    <img src="https://img.shields.io/badge/University%20Mail-4A044E?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
 
----
+## 👩‍💻 About Me
 
-  # 👧🏻 About Me 👧🏻
+### `> whoami`
 
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science+%26+Engineering;Collaborative+%26+Adaptable+Mindset;Open+to+Internships+%26+Projects+%26+Research" alt="Typing SVG" />
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 Who I Am
+
+I'm a **Computer Science & Engineering student** passionate about turning ideas into meaningful software.
+
+My interests sit at the intersection of:
+
+* 🤖 Artificial Intelligence
+* 🌐 Web Development
+* 🧩 Problem Solving
+* ☁️ Cloud & Modern Technologies
+* 🌱 Continuous Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔭 What I Do
+
+I enjoy building practical solutions while continuously learning new technologies.
+
+Currently focused on:
+
+* AI-powered applications
+* Modern web development
+* Real-world problem solving
+* Collaborative projects
+* Research & experimentation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ⚡ My Developer Journey
+
+`Learn` → `Think` → `Build` → `Debug` → `Improve` → `Collaborate` → `Repeat 🔁`
+
+<br>
+
+### 🎯 My Mission
+
+**Learn. Build. Collaborate. Grow.**
+
+<p>
+Turning ideas into working solutions,
+<br/>
+solving meaningful problems through technology,
+<br/>
+and continuously becoming a better developer.
 </p>
 
-<h2 align="center">💫 Quick Snapshot</h2>
-
-- 🧠 **Pursuing B.Tech in Computer Science & Engineering at Adamas University**
-- 💡 **Passionate about AI and Web Development**
-- 🔧 **Solving real-world problems through code and logic**
-- 🤝 **Believer in collaboration, adaptability, and a growth mindset**
-- 🚀 **Open to internships, projects, and research opportunities**
-
-<h2 align="center">🛠 Tech Stack 🛠</h2>
-
-<p align="center">
-  <table>
-    <tr>
-      <th>💻 Languages</th>
-      <th>🔧 Tools & Platforms</th>
-      <th>🌟 Other Skills</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,js,typescript" height="55"/><br/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/><br/>
-      </td>
-      <td align="center">
-        <table>
-          <tr>
-            <td align="center">🏷 OOP Concepts</td>
-            <td align="center">🧩 Problem Solving</td>
-          </tr>
-          <tr>
-            <td align="center">🤝 Teamwork</td>
-            <td align="center">🔄 Adaptability</td>
-          </tr>
-            <td align="center">🌐 Web Development</td>
-            <td align="center">🗣️ Communicating is my power</td>
-        </table>
-      </td>
-    </tr>
-  </table>
-</p> 
+</div>
 
 ---
 
-<h1 align="center">📈 Github Stats And Activity 📈</h1>
+<div align="center">
 
-<h2 align="center">🔥 Github Streak 🔥</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🧠 What I Build
 
-<h2 align="center">📊 Top Languages 📊</h2>
-<p align="center">
-<img src="./assets/top-languages.svg" alt="Top Languages" />
-</p>
+</div>
 
-<h2 align="center">🏆Github Profile Stats🏆</h2>
-</p>
-<p align="center">
-  <img src="./assets/github-stats.svg" />
-</p>
+<table align="center">
+<tr>
 
-<h2 align="center">🔥Skill Radar🔥</h2>
-<p align="center">
-  <img src="./assets/skill-radar-pink.svg" alt="Skill Radar" />
-</p>
+<td align="center" width="25%">
 
-> 🧠 _**Every commit adds experience to this skill tree — just like an RPG character!**_
+### 🤖
+
+**AI**
+
+Exploring artificial intelligence, machine learning and intelligent applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Web**
+
+Building modern websites, web applications and interactive experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**Problem Solving**
+
+Using programming, logic and algorithms to solve real-world challenges.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+**Growth**
+
+Learning new technologies, collaborating and experimenting with new ideas.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h1 align="center">✨Github Overview✨</h1>
-<p align="center">
-  <img src="assets/github-overview-pink.svg" alt="GitHub Overview Pink" />
-</p>
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+### Learning in Public • Building in Public • Contributing in Public
+
+<br/>
+
+<a href="https://github.com/DebasmitaBose0?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px" alt="Pull Shark" title="Pull Shark - Merged Pull Requests"/>
+</a>
+<a href="https://github.com/DebasmitaBose0?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px" alt="Quickdraw" title="Quickdraw - Closed an issue or PR within 5 minutes"/>
+</a>
+<a href="https://github.com/DebasmitaBose0?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits"/>
+</a>
+<a href="https://github.com/DebasmitaBose0?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" alt="YOLO" title="YOLO - Merged PR without review"/>
+</a>
+
+<br/>
+
+<sub><em>Click badges to explore achievements on GitHub</em></sub>
+
+</div>
 
 ---
 
-<h1 align="center">🔥My Active Contribution Graph🔥</h1>
-<p align="center">
-  <img src="./assets/contribution-graph-pink.svg" alt="Debasmita's GitHub Contribution Graph" />
-</p>
+<div align="center">
+
+## 🛠️ Tech Stack
+
+*Technologies I use to learn, build and experiment.*
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="220"><strong>Category</strong></td>
+<td align="center"><strong>Technologies</strong></td>
+</tr>
+
+<tr>
+<td align="center">👨‍💻 <strong>Languages</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,bash,powershell"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">🎨 <strong>Frontend</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,threejs"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">⚙️ <strong>Backend</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">🤖 <strong>AI / ML / Data</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">🗄️ <strong>Databases</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">☁️ <strong>Cloud & Deployment</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,firebase"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">🔧 <strong>DevOps & Tools</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,npm,postman,bash"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">🎨 <strong>Design & Productivity</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma,unity,notion"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white"/>
+</td>
+</tr>
+
+</table>
 
 ---
 
-<h1 align="center">🤝Connect With Me🤝</h1> 
-<p align="center">
-  <a href="mailto:dbose272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/DebasmitaBose0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/debasmita-bose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<div align="center">
 
---- 
+## 📊 GitHub Analytics
 
+<br/>
 
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=DebasmitaBose0&theme=rose_pine&hide_border=true" alt="Debasmita GitHub Streak"/>
+
+<br/><br/>
+
+### 📈 GitHub Profile
+
+<img src="./assets/github-stats.svg" alt="GitHub Stats"/>
+
+<br/><br/>
+
+### 🧠 Skill Radar
+
+<img src="./assets/skill-radar-pink.svg" alt="Skill Radar"/>
+
+<br/><br/>
+
+<sub><em>Every commit adds experience to this skill tree — just like an RPG character!</em></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 GitHub Overview
+
+<br/>
+
+<img src="./assets/github-overview-pink.svg" alt="GitHub Overview"/>
+
+<br/><br/>
+
+<img src="./assets/contribution-graph-pink.svg" alt="Debasmita's GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Top Languages
+
+<br/>
+
+<img src="./assets/top-languages.svg" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br/>
+
+<a href="mailto:dbose272@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/DebasmitaBose0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/debasmita-bose/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:debasmita.bose@stu.adamasuniversity.ac.in">
+  <img src="https://img.shields.io/badge/University%20Mail-4A044E?style=for-the-badge&logo=gmail&logoColor=white" alt="University Mail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DebasmitaBose0&style=for-the-badge&color=EC4899" alt="Profile Views"/>
+
+<br/><br/>
+
+### `Learn • Build • Collaborate • Grow 🚀`
+
+### Thanks for visiting my profile! 👋
+
+**Open to internships, projects, research, collaboration, and new opportunities. 🌸**
+
+</div>
 
