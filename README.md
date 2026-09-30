@@ -24,9 +24,9 @@
 
 <div align="center">
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 👩‍💻
 
-### `> whoami`
+
 
 </div>
 
@@ -34,7 +34,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 Who I Am
+### 🌸 Who I Am 🌸
 
 I'm a **Computer Science & Engineering student** passionate about turning ideas into meaningful software.
 
@@ -50,7 +50,7 @@ My interests sit at the intersection of:
 
 <td width="50%" valign="top">
 
-### 🔭 What I Do
+### 🔭 What I Do 🔭
 
 I enjoy building practical solutions while continuously learning new technologies.
 
@@ -70,13 +70,13 @@ Currently focused on:
 
 <div align="center">
 
-### ⚡ My Developer Journey
+## ⚡ My Developer Journey ⚡
 
 `Learn` → `Think` → `Build` → `Debug` → `Improve` → `Collaborate` → `Repeat 🔁`
 
 <br>
 
-### 🎯 My Mission
+## 🎯 My Mission 🎯
 
 **Learn. Build. Collaborate. Grow.**
 
@@ -94,7 +94,7 @@ and continuously becoming a better developer.
 
 <div align="center">
 
-## 🧠 What I Build
+## 🧠 What I Build 🧠
 
 </div>
 
@@ -148,7 +148,7 @@ Learning new technologies, collaborating and experimenting with new ideas.
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements 🏆
 
 ### Learning in Public • Building in Public • Contributing in Public
 
@@ -178,7 +178,7 @@ Learning new technologies, collaborating and experimenting with new ideas.
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 
 *Technologies I use to learn, build and experiment.*
 
@@ -273,7 +273,7 @@ Learning new technologies, collaborating and experimenting with new ideas.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 📊
 
 ### `> git status --visualize`
 
@@ -313,7 +313,7 @@ Learning new technologies, collaborating and experimenting with new ideas.
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect 🤝
 
 <p align="center">
 
