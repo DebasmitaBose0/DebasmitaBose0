@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:3B0A35,50:BE185D,100:EC4899&text=DEBASMITA&fontSize=68&fontColor=FFFFFF&fontFamily=Outfit&animation=twinkling&desc=AI%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20PROBLEM%20SOLVING%20%E2%80%A2%20OPEN%20SOURCE&descSize=15&descColor=FBCFE8&descAlignY=68&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:3B0A35,50:BE185D,100:EC4899&text=DEBASMITA&fontSize=68&fontColor=FFFFFF&fontFamily=Outfit&animation=twinkling&desc=AI%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20PROBLEM%20SOLVING%20%E2%80%A2%20OPEN%20SOURCE%20CONTRIBUTOR&descSize=15&descColor=FBCFE8&descAlignY=68&descAlign=50"
     alt="DEBASMITA"
   />
 </p>
