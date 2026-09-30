@@ -26,8 +26,6 @@
 
 ## 👩‍💻 About Me 👩‍💻
 
-
-
 </div>
 
 <table align="center">
@@ -275,7 +273,7 @@ Learning new technologies, collaborating and experimenting with new ideas.
 
 ## 📊 GitHub Analytics 📊
 
-### `> git status --visualize`
+
 
 <br/>
 
