@@ -362,7 +362,7 @@ Learning new technologies, collaborating and experimenting with new ideas.
 </h3>
 
 <p align="center">
-  <strong>Open to internships, projects, research, collaboration, and new opportunities. 🌸</strong>
+  <strong>🌸 Open to internships, projects, research, collaboration, and new opportunities. 🌸</strong>
 </p>
 
 <!-- Closing Message -->
